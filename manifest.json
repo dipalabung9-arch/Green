@@ -1,0 +1,17 @@
+{
+  "short_name": "Green Tea",
+  "name": "Green Tea Procurement",
+  "icons": [
+    {
+      "src": "https://3hdkpemmpjnndh7dh4g2ek.streamlit.app/media/favicon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://3hdkpemmpjnndh7dh4g2ek.streamlit.app/",
+  "display": "standalone",
+  "theme_color": "#0c3b3c",
+  "background_color": "#085a5e",
+  "id": "com.green.tea.procurement",
+  "description": "Driver field collection system for green tea leaf procurement"
+}
